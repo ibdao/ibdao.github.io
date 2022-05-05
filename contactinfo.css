@@ -1,0 +1,30 @@
+table{
+    table-layout: fixed;
+    width: 100%;
+
+}
+td:nth-child(1){
+    width:58%;
+}
+td:nth-child(2){
+    width: 21%;
+}
+td:nth-child(3){
+    width: 21%;
+}
+body{
+    background-color: grey;
+}
+h1{
+    font-size: 52;
+    color: yellow;
+    text-align: right;   
+}
+h2{
+    color: yellow;
+    text-align: right;
+}
+p{
+    text-align: center;
+    font-size: 14;
+}
