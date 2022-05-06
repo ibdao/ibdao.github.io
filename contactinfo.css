@@ -4,13 +4,18 @@ table{
 
 }
 td:nth-child(1){
-    width:58%;
+    width: 60%;
+    padding-left: 42%;
+    
 }
 td:nth-child(2){
-    width: 21%;
+    width: 20%;
+    padding-left: 12%;
+    
 }
 td:nth-child(3){
-    width: 21%;
+    width: 20%;
+    padding-left: 12%;
 }
 body{
     background-color: grey;
@@ -18,11 +23,10 @@ body{
 h1{
     font-size: 52;
     color: yellow;
-    text-align: right;   
+      
 }
 h2{
     color: yellow;
-    text-align: right;
 }
 p{
     text-align: center;

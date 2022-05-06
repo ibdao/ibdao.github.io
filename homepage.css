@@ -3,12 +3,10 @@ body{
 }
 h1{
     font-size: 52;
-    color: yellow;
-    text-align: right;   
+    color: yellow;  
 }
 h2{
     color: yellow;
-    text-align: right;
 }
 p:nth-child(2){
     align-items: center;
@@ -20,13 +18,18 @@ table{
     width: 100%;
 }
 td:nth-child(1){
-    width:58%;
+    width: 60%;
+    padding-left: 42%;
+    
 }
 td:nth-child(2){
-    width: 21%;
+    width: 20%;
+    padding-left: 12%;
+    
 }
 td:nth-child(3){
-    width: 21%;
+    width: 20%;
+    padding-left: 5%;
 }
 p:nth-child(3){
     font-size: 8;

@@ -3,25 +3,28 @@ table{
     width: 100%;
 }
 td:nth-child(1){
-    width:52%;
+    width: 60%;
+    padding-left: 45%;
+    
 }
 td:nth-child(2){
-    width: 21%;
+    width: 20%;
+    padding-left: 12%;
+    
 }
 td:nth-child(3){
-    width: 21%;
+    width: 20%;
+    padding-left: 5%;
 }
 body{
     background-color: grey;
 }
 h1{
     font-size: 52;
-    color: yellow;
-    text-align: right;   
+    color: yellow; 
 }
 h2{
     color: yellow;
-    text-align: right;
 }
 p:nth-child(2){
     align-items: center;
