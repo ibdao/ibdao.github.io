@@ -27,6 +27,7 @@ p:nth-child(2){
     align-items: center;
     justify-content: center;
     text-align: center;
+    font-family: serif ;
 }
 p:nth-child(3){
     font-size: 8;
